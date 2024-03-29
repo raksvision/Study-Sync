@@ -1,4 +1,4 @@
 # StudySync
 
-This is a HTML and CSS Project. <br>
-This is <b>Responsive</b> and <b>interactive</b>
+This Website is created  by using  HTML and CSS. <br>
+This website is <b>Responsive</b> and <b>interactive</b>
